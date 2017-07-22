@@ -1,6 +1,6 @@
 {
   "name": "language-touchdesigner-glsl",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Added language-glsl to touchdesigner original funtions and constants.",
   "keywords": [
     "atom",
