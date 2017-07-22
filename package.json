@@ -1,0 +1,22 @@
+{
+  "name": "language-touchdesigner-glsl",
+  "version": "0.1.0",
+  "description": "Added language-glsl to touchdesigner original funtions and constants.",
+  "keywords": [
+    "atom",
+    "glsl",
+    "syntax",
+    "touchdesigner"
+  ],
+  "activationCommands": {
+    "atom-workspace": "language-touchdesigner-glsl:toggle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ToyoshiMorioka/language-touchdesigner-glsl.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
