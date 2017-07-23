@@ -61,7 +61,7 @@
     'name': 'support.constant.glsl'
   }
   {
-    'match': '\\b(sTDNoiseMap|sTDSineLookup|sTD2DInputs|sTD3DInputs|sTD2DArrayInputs|sTDCubeInputs|uTDCurrentDepth)\\b'
+    'match': '\\b(sTDNoiseMap|sTDSineLookup|sTD2DInputs|sTD3DInputs|sTD2DArrayInputs|sTDCubeInputs|uTDCurrentDepth|uTDInstanceIDOffset)\\b'
     'name': 'support.variable.glsl'
   }
   {
